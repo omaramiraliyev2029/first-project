@@ -1,1 +1,3 @@
-print(“Python practice start”)
+name = "Omar"
+print("Hello", name)
+print("Practice continues")
