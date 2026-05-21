@@ -1,3 +1,5 @@
 name = "Omar"
-print("Hello", name)
-print("Practice continues")
+age = 14
+print(name)
+print(age)
+print("Years until 18:", 18 - age)
